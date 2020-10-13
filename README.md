@@ -1,4 +1,6 @@
-# GitHub-First-Repository
+# GitHub-MyFirstRepository
+#hello-world
+
 This is my first repository on GitHub
 
 Hi, I am new to GitHub and this is my first repository.
